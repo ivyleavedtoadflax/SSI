@@ -34,4 +34,4 @@ Ashley's presentation was another reminder of why it is important to write usefu
 
 Finally, another presentation from Microsoft employees: [errick Stolee]() and [Johannes Schindelin]() (the latter of whom was responsible for implementing `git rebase -i`) demonstrated the difficulties in bringing git to windows, and the complications this entails. Now that windows development has been moved over to git, windows users will be pleased to see new emphasis on improving the performance of git on windows, being driven by improvements introduced to improve the way git can handle the impressively large windows codebase.
 
-All in all, git merge 2018 was a great event, rounded off by 
+All in all, git merge 2018 was a great event, well worth attending in future.
